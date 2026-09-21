@@ -12,7 +12,7 @@ The project analyzes **45,211 campaign contact records** to explore customer con
 > Add the final Power BI dashboard screenshot here after uploading it to the repository.
 
 ```markdown
-![Bank Customer Campaign Analytics Dashboard](dashboard/bank_dashboard_preview.png)
+![Bank Customer Campaign Analytics Dashboard](DASHBOARD.png)
 ```
 
 ---
